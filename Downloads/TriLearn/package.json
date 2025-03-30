@@ -1,0 +1,23 @@
+{
+  "name": "trilearn",
+  "version": "1.0.0",
+  "description": "🛠 Step-by-Step MVP Build Plan",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^15.2.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+  
+}

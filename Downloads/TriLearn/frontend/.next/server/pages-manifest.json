@@ -2,7 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/onboarding": "pages/onboarding.js",
-  "/study-guide": "pages/study-guide.js",
-  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js"
+  "/mainpage": "pages/mainpage.js"
 }
